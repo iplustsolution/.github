@@ -58,8 +58,8 @@ We build tailor-made solutions based on client requirements.
 ## 📞 Contact Us
 For collaborations or business inquiries, feel free to reach out:
 - **Website:** [www.iplustsolution.com](https://www.iplustsolution.com)
-- **Email:** contact@iplustsolution.com
-- **LinkedIn:** [I Plus T Solution](https://linkedin.com/company/iplustsolution)
+- **Email:** info@iplust.in
+- **LinkedIn:** [I Plus T Solution](https://linkedin.com/company/i-plus-t-solution)
 - **GitHub:** [github.com/iplustsolution](https://github.com/iplustsolution)
 
 ---
