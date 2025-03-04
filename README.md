@@ -1,4 +1,6 @@
-Welcome to **I Plus T Solution** – a technology-driven company dedicated to building innovative and high-performance applications. We specialize in mobile apps, web development, backend systems, frontend solutions, AI, and more. Our mission is to create cutting-edge software that enhances user experience and drives business growth.
+# Welcome to **I Plus T Solution**
+
+A technology-driven company dedicated to building innovative and high-performance applications. We specialize in mobile apps, web development, backend systems, frontend solutions, AI, and more. Our mission is to create cutting-edge software that enhances user experience and drives business growth.
 
 ---
 
