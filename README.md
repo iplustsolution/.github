@@ -1,6 +1,3 @@
-# I Plus T Solution
-
-```md
 Welcome to **I Plus T Solution** – a technology-driven company dedicated to building innovative and high-performance applications. We specialize in mobile apps, web development, backend systems, frontend solutions, AI, and more. Our mission is to create cutting-edge software that enhances user experience and drives business growth.
 
 ---
@@ -66,4 +63,3 @@ For collaborations or business inquiries, feel free to reach out:
 ---
 
 *Powered by I Plus T Solution – Innovating the Future!* 🚀
-```
