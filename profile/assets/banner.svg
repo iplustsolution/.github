@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">I Plus T Solution — AI agents and high-performance Rust backends</title>
+  <desc id="desc">Hero banner for I Plus T Solution, an AI-native software development company in Gurugram, India, building AI agents, LLM and RAG applications, Rust backends, React Native apps and cloud-native SaaS.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03100A"/>
+      <stop offset="0.55" stop-color="#061A10"/>
+      <stop offset="1" stop-color="#04140D"/>
+    </linearGradient>
+    <radialGradient id="glowRust" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0BBF64" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0BBF64" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowAI" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4ADE80" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#D2FADF"/>
+      <stop offset="1" stop-color="#22E07D"/>
+    </linearGradient>
+    <linearGradient id="rust" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2BE38A"/>
+      <stop offset="1" stop-color="#00822F"/>
+    </linearGradient>
+    <linearGradient id="ai" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26F2D6"/>
+      <stop offset="1" stop-color="#86EFAC"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0BBF64" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#0BBF64"/>
+      <stop offset="0.7" stop-color="#86EFAC"/>
+      <stop offset="1" stop-color="#26F2D6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#12301F" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="gridFade" cx="0.75" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1280" height="420" fill="url(#gridFade)"/></mask>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <rect id="tooth" x="-15" y="-136" width="30" height="36" rx="5"/>
+    <linearGradient id="logoBg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#00C84E"/>
+      <stop offset="1" stop-color="#00822F"/>
+    </linearGradient>
+    <linearGradient id="logoFg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E6FFEE"/>
+      <stop offset="1" stop-color="#82E7B0"/>
+    </linearGradient>
+    <g id="logo">
+      <rect width="52" height="52" rx="12" fill="url(#logoBg)"/>
+      <rect x="1.5" y="1.5" width="49" height="49" rx="10.5" fill="none" stroke="#57CC8B" stroke-opacity="0.8"/>
+      <g fill="url(#logoFg)" stroke="#006621" stroke-opacity="0.35" stroke-width="0.8">
+        <circle cx="11" cy="12.4" r="3.4"/>
+        <rect x="7.9" y="18.8" width="6" height="23.4" rx="2"/>
+        <rect x="19.4" y="9.2" width="27" height="6.6" rx="2"/>
+        <rect x="29.5" y="9.2" width="7.4" height="33" rx="2"/>
+      </g>
+    </g>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .edge { stroke: #1D4A30; stroke-width: 1.2; fill: none; }
+    .node { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .n2 { animation-delay: .6s; } .n3 { animation-delay: 1.2s; } .n4 { animation-delay: 1.8s; } .n5 { animation-delay: 2.4s; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .spin { animation: spin 48s linear infinite; transform-origin: 1030px 210px; }
+    @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.35); } }
+    @keyframes blink { 0%,50% { opacity: 1; } 50.01%,100% { opacity: 0; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { .node, .cursor, .spin { animation: none; } .pulse { display: none; } }
+  </style>
+
+  <!-- Background -->
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)" mask="url(#gridMask)" opacity="0.55"/>
+  <circle cx="1030" cy="210" r="300" fill="url(#glowRust)"/>
+  <circle cx="1180" cy="40" r="260" fill="url(#glowAI)"/>
+  <circle cx="120" cy="420" r="260" fill="url(#glowAI)" opacity="0.5"/>
+
+  <!-- Neural network edges -->
+  <g class="edge">
+    <path id="e1" d="M860 78 L1030 210"/>
+    <path id="e2" d="M840 214 L1030 210"/>
+    <path id="e3" d="M880 348 L1030 210"/>
+    <path id="e4" d="M1196 64 L1030 210"/>
+    <path id="e5" d="M1236 196 L1030 210"/>
+    <path id="e6" d="M1210 350 L1030 210"/>
+    <path id="e7" d="M1030 32 L1030 210"/>
+    <path id="e8" d="M1030 392 L1030 210"/>
+    <path d="M860 78 L1030 32 L1196 64 L1236 196 L1210 350 L1030 392 L880 348 L840 214 Z" stroke="#12301F"/>
+    <path d="M860 78 L840 214 M1196 64 L1236 196 M880 348 L1030 392" stroke="#2F6B48" stroke-dasharray="3 6"/>
+  </g>
+
+  <!-- Data pulses travelling into the Rust core -->
+  <g class="pulse">
+    <circle r="3.5" fill="#26F2D6"><animateMotion dur="2.6s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
+    <circle r="3.5" fill="#22E07D"><animateMotion dur="3.1s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+    <circle r="3.5" fill="#86EFAC"><animateMotion dur="2.8s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle>
+    <circle r="3.5" fill="#22E07D"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle>
+    <circle r="3.5" fill="#26F2D6"><animateMotion dur="3.3s" repeatCount="indefinite"><mpath href="#e5"/></animateMotion></circle>
+    <circle r="3.5" fill="#86EFAC"><animateMotion dur="2.9s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion></circle>
+    <circle r="3.5" fill="#A3E635"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#e7"/></animateMotion></circle>
+    <circle r="3.5" fill="#A3E635"><animateMotion dur="2.7s" repeatCount="indefinite"><mpath href="#e8"/></animateMotion></circle>
+  </g>
+
+  <!-- Nodes -->
+  <g>
+    <circle cx="860" cy="78" r="7" fill="#26F2D6" class="node"/>
+    <circle cx="840" cy="214" r="6" fill="#22E07D" class="node n2"/>
+    <circle cx="880" cy="348" r="7" fill="#86EFAC" class="node n3"/>
+    <circle cx="1030" cy="32" r="6" fill="#A3E635" class="node n4"/>
+    <circle cx="1196" cy="64" r="7" fill="#22E07D" class="node n5"/>
+    <circle cx="1236" cy="196" r="6" fill="#26F2D6" class="node n2"/>
+    <circle cx="1210" cy="350" r="7" fill="#86EFAC" class="node n4"/>
+    <circle cx="1030" cy="392" r="6" fill="#A3E635" class="node n3"/>
+  </g>
+  <g class="mono" font-size="11" fill="#5E8C72" letter-spacing="1">
+    <text x="874" y="70">LLM</text>
+    <text x="1210" y="56">AGENTS</text>
+    <text x="1044" y="28">RAG</text>
+    <text x="1250" y="192" text-anchor="end" dy="-12">VECTOR</text>
+    <text x="1196" y="376" text-anchor="middle">CLOUD</text>
+    <text x="1044" y="404">DATA</text>
+    <text x="866" y="374" text-anchor="middle">MOBILE</text>
+    <text x="840" y="240" text-anchor="middle">WEB</text>
+  </g>
+
+  <!-- Rust gear -->
+  <circle cx="1030" cy="210" r="150" fill="#0BBF64" opacity="0.18" filter="url(#soft)"/>
+  <g class="spin">
+    <g transform="translate(1030 210)" fill="url(#rust)">
+      <use href="#tooth"/>
+      <use href="#tooth" transform="rotate(30)"/>
+      <use href="#tooth" transform="rotate(60)"/>
+      <use href="#tooth" transform="rotate(90)"/>
+      <use href="#tooth" transform="rotate(120)"/>
+      <use href="#tooth" transform="rotate(150)"/>
+      <use href="#tooth" transform="rotate(180)"/>
+      <use href="#tooth" transform="rotate(210)"/>
+      <use href="#tooth" transform="rotate(240)"/>
+      <use href="#tooth" transform="rotate(270)"/>
+      <use href="#tooth" transform="rotate(300)"/>
+      <use href="#tooth" transform="rotate(330)"/>
+      <circle r="112"/>
+      <circle r="88" fill="#061A10"/>
+      <circle r="98" fill="none" stroke="#061A10" stroke-width="3" stroke-dasharray="4 10"/>
+    </g>
+  </g>
+
+  <!-- AI chip in the gear -->
+  <g transform="translate(1030 210)">
+    <g stroke="url(#ai)" stroke-width="3" stroke-linecap="round">
+      <path d="M-24 -58 V-46 M0 -58 V-46 M24 -58 V-46"/>
+      <path d="M-24 46 V58 M0 46 V58 M24 46 V58"/>
+      <path d="M-58 -24 H-46 M-58 0 H-46 M-58 24 H-46"/>
+      <path d="M46 -24 H58 M46 0 H58 M46 24 H58"/>
+    </g>
+    <rect x="-46" y="-46" width="92" height="92" rx="16" fill="#07190F" stroke="url(#ai)" stroke-width="2.5"/>
+    <rect x="-36" y="-36" width="72" height="72" rx="10" fill="none" stroke="#12301F"/>
+    <text class="sans" y="13" text-anchor="middle" font-size="36" font-weight="800" fill="url(#ai)">AI</text>
+  </g>
+
+  <!-- Left: copy -->
+  <g class="sans">
+    <g>
+      <use href="#logo" x="72" y="52"/>
+      <circle cx="146" cy="78" r="5" fill="#22E07D" class="node"/>
+      <text x="160" y="83" font-size="13" font-weight="600" letter-spacing="2.2" fill="#86EFAC">AI-NATIVE · RUST-POWERED · GLOBAL</text>
+    </g>
+
+    <text x="70" y="168" font-size="64" font-weight="800" letter-spacing="-1.5" fill="url(#titleGrad)">I Plus T Solution</text>
+
+    <g font-size="23" fill="#CFE8D9">
+      <text x="72" y="214">We engineer <tspan fill="#99F6E4" font-weight="700">AI agents</tspan> and <tspan fill="#86EFAC" font-weight="700">blazing-fast Rust backends</tspan> —</text>
+      <text x="72" y="246">web, mobile and SaaS built for speed, security and scale.</text>
+    </g>
+
+    <g font-size="14" font-weight="600" text-anchor="middle">
+      <rect x="72" y="272" width="64" height="30" rx="8" fill="#0BBF64" fill-opacity="0.18"/>
+      <text x="104" y="292" fill="#86EFAC">Rust</text>
+      <rect x="146" y="272" width="104" height="30" rx="8" fill="#4ADE80" fill-opacity="0.18"/>
+      <text x="198" y="292" fill="#99F6E4">AI Agents</text>
+      <rect x="260" y="272" width="108" height="30" rx="8" fill="#4ADE80" fill-opacity="0.18"/>
+      <text x="314" y="292" fill="#99F6E4">LLM · RAG</text>
+      <rect x="378" y="272" width="122" height="30" rx="8" fill="#26F2D6" fill-opacity="0.18"/>
+      <text x="439" y="292" fill="#A7FFF0">React Native</text>
+      <rect x="510" y="272" width="84" height="30" rx="8" fill="#26F2D6" fill-opacity="0.18"/>
+      <text x="552" y="292" fill="#A7FFF0">Next.js</text>
+      <rect x="604" y="272" width="112" height="30" rx="8" fill="#A3E635" fill-opacity="0.18"/>
+      <text x="660" y="292" fill="#D9F99D">Kubernetes</text>
+    </g>
+
+    <!-- Terminal -->
+    <g>
+      <rect x="72" y="324" width="600" height="74" rx="10" fill="#020A06" stroke="#143322"/>
+      <circle cx="92" cy="344" r="4.5" fill="#EF4444"/>
+      <circle cx="106" cy="344" r="4.5" fill="#F59E0B"/>
+      <circle cx="120" cy="344" r="4.5" fill="#22C55E"/>
+      <text class="mono" x="92" y="378" font-size="15" fill="#9BBFAA"><tspan fill="#A3E635">❯</tspan> cargo run --release <tspan fill="#2F6B48">·</tspan> <tspan fill="#22E07D">agent</tspan> online <tspan fill="#2F6B48">·</tspan> <tspan fill="#86EFAC">memory-safe</tspan> <tspan fill="#2F6B48">·</tspan> async</text>
+      <rect x="628" y="364" width="9" height="17" fill="#22E07D" class="cursor"/>
+    </g>
+  </g>
+
+  <rect y="416" width="1280" height="4" fill="url(#line)"/>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+  <title id="t">How I Plus T Solution builds: AI-native systems on a Rust core</title>
+  <desc id="d">Four-layer architecture: web, mobile and desktop clients; an async Rust backend with Tokio and Hyper; an AI layer with LLM integration, RAG and agentic workflows; and data and cloud with PostgreSQL, Redis, Docker, Kubernetes, AWS and Azure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03100A"/>
+      <stop offset="1" stop-color="#04140D"/>
+    </linearGradient>
+    <radialGradient id="hl" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0BBF64" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0BBF64" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#5E8C72"/>
+    </marker>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .flow { stroke-dasharray: 6 8; animation: dash 1.2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -28; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+  </style>
+
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <circle cx="490" cy="200" r="230" fill="url(#hl)"/>
+
+  <text class="sans" x="640" y="50" text-anchor="middle" font-size="26" font-weight="800" fill="#F0FDF4">AI-native systems, built on a <tspan fill="#4ADE80">Rust</tspan> core</text>
+  <text class="mono" x="640" y="76" text-anchor="middle" font-size="13" letter-spacing="2" fill="#5E8C72">CLIENT  →  CORE  →  INTELLIGENCE  →  SCALE</text>
+
+  <!-- connectors -->
+  <g stroke="#2F6B48" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path class="flow" d="M306 205 H354"/>
+    <path class="flow" d="M626 205 H674"/>
+    <path class="flow" d="M946 205 H994"/>
+  </g>
+
+  <g class="sans">
+    <!-- 01 -->
+    <rect x="46" y="104" width="260" height="202" rx="14" fill="#06170E" stroke="#26F2D6" stroke-opacity="0.45"/>
+    <rect x="46" y="104" width="260" height="4" rx="2" fill="#26F2D6"/>
+    <text class="mono" x="70" y="140" font-size="12" letter-spacing="2" fill="#26F2D6">01 · EXPERIENCE</text>
+    <text x="70" y="172" font-size="20" font-weight="800" fill="#F0FDF4">Web · Mobile · Desktop</text>
+    <g font-size="15" fill="#9BBFAA">
+      <text x="70" y="212">▸ React · Next.js · Vue</text>
+      <text x="70" y="240">▸ React Native · Flutter</text>
+      <text x="70" y="268">▸ Tauri · Electron · .NET</text>
+    </g>
+
+    <!-- 02 -->
+    <rect x="362" y="104" width="260" height="202" rx="14" fill="#062A16" stroke="#0BBF64" stroke-width="2"/>
+    <rect x="362" y="104" width="260" height="4" rx="2" fill="#0BBF64"/>
+    <text class="mono" x="386" y="140" font-size="12" letter-spacing="2" fill="#4ADE80">02 · CORE</text>
+    <text x="386" y="172" font-size="22" font-weight="800" fill="#F0FDF4">Rust Backend</text>
+    <g font-size="15" fill="#CFE8D9">
+      <text x="386" y="212">▸ Async Tokio · Hyper</text>
+      <text x="386" y="240">▸ REST · GraphQL · WebSockets</text>
+      <text x="386" y="268">▸ Memory-safe, zero-GC latency</text>
+    </g>
+
+    <!-- 03 -->
+    <rect x="682" y="104" width="260" height="202" rx="14" fill="#061A16" stroke="#86EFAC" stroke-opacity="0.55"/>
+    <rect x="682" y="104" width="260" height="4" rx="2" fill="#86EFAC"/>
+    <text class="mono" x="706" y="140" font-size="12" letter-spacing="2" fill="#86EFAC">03 · INTELLIGENCE</text>
+    <text x="706" y="172" font-size="22" font-weight="800" fill="#F0FDF4">AI &amp; Agents</text>
+    <g font-size="15" fill="#9BBFAA">
+      <text x="706" y="212">▸ LLM integration</text>
+      <text x="706" y="240">▸ RAG · vector search</text>
+      <text x="706" y="268">▸ Agentic workflows · vision</text>
+    </g>
+
+    <!-- 04 -->
+    <rect x="1002" y="104" width="232" height="202" rx="14" fill="#0B1A08" stroke="#A3E635" stroke-opacity="0.45"/>
+    <rect x="1002" y="104" width="232" height="4" rx="2" fill="#A3E635"/>
+    <text class="mono" x="1026" y="140" font-size="12" letter-spacing="2" fill="#A3E635">04 · SCALE</text>
+    <text x="1026" y="172" font-size="22" font-weight="800" fill="#F0FDF4">Data &amp; Cloud</text>
+    <g font-size="15" fill="#9BBFAA">
+      <text x="1026" y="212">▸ PostgreSQL · Redis</text>
+      <text x="1026" y="240">▸ Docker · Kubernetes</text>
+      <text x="1026" y="268">▸ AWS · Azure · CI/CD</text>
+    </g>
+  </g>
+
+  <text class="mono" x="640" y="338" text-anchor="middle" font-size="13" fill="#5E8C72">Rust at the core · AI at the edge · shipped end-to-end by one team</text>
+</svg>
