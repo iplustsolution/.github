@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="442" viewBox="0 0 1300 442" role="img" aria-labelledby="t d">
+  <title id="t">I Plus T Solution technology stack</title>
+  <desc id="d">Backend &amp; AI: Rust, Tokio, Hyper, Python, Node.js, Java, PHP, LLMs, RAG, AI agents, Computer vision; Web, mobile &amp; desktop: TypeScript, React, Next.js, Vue, Angular, Laravel, Tailwind CSS, React Native, Flutter, Swift, Kotlin, Tauri, Electron, .NET; Data &amp; cloud: PostgreSQL, MongoDB, MySQL, Redis, Neo4j, Supabase, Firebase, AWS, Azure, Docker, Kubernetes, Cloudflare, CI/CD</desc>
+  <defs>
+  <filter id="sh" x="-15%" y="-15%" width="130%" height="160%">
+    <feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#000" flood-opacity="0.30"/>
+    <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#000" flood-opacity="0.22"/>
+  </filter>
+  <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#103322"/><stop offset="1" stop-color="#05150C"/>
+  </linearGradient>
+  <linearGradient id="faceA" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#134A2C"/><stop offset="1" stop-color="#061C10"/>
+  </linearGradient>
+  <linearGradient id="slab" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0B5A2E"/><stop offset="1" stop-color="#03200F"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#C9FFE0" stop-opacity="0.38"/>
+    <stop offset="0.3" stop-color="#C9FFE0" stop-opacity="0.07"/>
+    <stop offset="1" stop-color="#C9FFE0" stop-opacity="0.02"/>
+  </linearGradient>
+  <radialGradient id="sheen" cx="0.18" cy="0" r="0.95">
+    <stop offset="0" stop-color="#22E07D" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#22E07D" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="tile" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#22DB73"/><stop offset="1" stop-color="#00822F"/>
+  </linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.5"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="num" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F0FFF5"/><stop offset="1" stop-color="#22E07D"/>
+  </linearGradient>
+  <linearGradient id="logoFg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E6FFEE"/><stop offset="1" stop-color="#82E7B0"/>
+  </linearGradient>
+  </defs>
+  <style>
+    .s { font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .m { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+  </style>
+<g transform="translate(10 4)">
+<g filter="url(#sh)"><rect x="20" y="19" width="1240" height="376" rx="26" fill="url(#slab)"/><rect x="20" y="12" width="1240" height="376" rx="26" fill="url(#face)"/></g>
+<rect x="20" y="12" width="1240" height="376" rx="26" fill="url(#sheen)"/>
+<rect x="20.75" y="12.75" width="1238.5" height="374.5" rx="25.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text class="m" x="60" y="66" font-size="12" letter-spacing="1.6" fill="#4ADE80">01</text>
+<text class="s" x="60" y="94" font-size="21" font-weight="800" fill="#F3FFF7">Backend &amp; AI</text>
+<rect x="340.0" y="52" width="59.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="369.8" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Rust</text>
+<rect x="409.6" y="52" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="443.6" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Tokio</text>
+<rect x="487.6" y="52" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="521.6" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Hyper</text>
+<rect x="565.6" y="52" width="76.4" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="603.8" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Python</text>
+<rect x="652.0" y="52" width="84.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="694.4" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Node.js</text>
+<rect x="746.8" y="52" width="59.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="776.6" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Java</text>
+<rect x="816.4" y="52" width="51.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="842.0" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">PHP</text>
+<rect x="877.6" y="52" width="59.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="907.4" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">LLMs</text>
+<rect x="947.2" y="52" width="51.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="972.8" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">RAG</text>
+<rect x="1008.4" y="52" width="101.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="1059.2" y="73.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">AI agents</text>
+<rect x="340.0" y="96" width="152.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="416.0" y="117.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Computer vision</text>
+<rect x="60" y="144" width="1160" height="1" fill="#1D4A30"/>
+<text class="m" x="60" y="176" font-size="12" letter-spacing="1.6" fill="#4ADE80">02</text>
+<text class="s" x="60" y="204" font-size="21" font-weight="800" fill="#F3FFF7">Web, mobile &amp; desktop</text>
+<rect x="340.0" y="162" width="110.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="395.0" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">TypeScript</text>
+<rect x="460.0" y="162" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="494.0" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">React</text>
+<rect x="538.0" y="162" width="84.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="580.4" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Next.js</text>
+<rect x="632.8" y="162" width="51.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="658.4" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Vue</text>
+<rect x="694.0" y="162" width="84.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="736.4" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Angular</text>
+<rect x="788.8" y="162" width="84.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="831.2" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Laravel</text>
+<rect x="883.6" y="162" width="126.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="947.0" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Tailwind CSS</text>
+<rect x="1020.4" y="162" width="126.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="1083.8" y="183.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">React Native</text>
+<rect x="340.0" y="206" width="84.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="382.4" y="227.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Flutter</text>
+<rect x="434.8" y="206" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="468.8" y="227.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Swift</text>
+<rect x="512.8" y="206" width="76.4" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="551.0" y="227.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Kotlin</text>
+<rect x="599.2" y="206" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="633.2" y="227.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Tauri</text>
+<rect x="677.2" y="206" width="93.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="723.8" y="227.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Electron</text>
+<rect x="780.4" y="206" width="59.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="810.2" y="227.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">.NET</text>
+<rect x="60" y="254" width="1160" height="1" fill="#1D4A30"/>
+<text class="m" x="60" y="286" font-size="12" letter-spacing="1.6" fill="#4ADE80">03</text>
+<text class="s" x="60" y="314" font-size="21" font-weight="800" fill="#F3FFF7">Data &amp; cloud</text>
+<rect x="340.0" y="272" width="110.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="395.0" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">PostgreSQL</text>
+<rect x="460.0" y="272" width="84.8" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="502.4" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">MongoDB</text>
+<rect x="554.8" y="272" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="588.8" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">MySQL</text>
+<rect x="632.8" y="272" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="666.8" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Redis</text>
+<rect x="710.8" y="272" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="744.8" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Neo4j</text>
+<rect x="788.8" y="272" width="93.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="835.4" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Supabase</text>
+<rect x="892.0" y="272" width="93.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="938.6" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Firebase</text>
+<rect x="995.2" y="272" width="51.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="1020.8" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">AWS</text>
+<rect x="1056.4" y="272" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="1090.4" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Azure</text>
+<rect x="1134.4" y="272" width="76.4" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="1172.6" y="293.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Docker</text>
+<rect x="340.0" y="316" width="110.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="395.0" y="337.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Kubernetes</text>
+<rect x="460.0" y="316" width="110.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="515.0" y="337.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Cloudflare</text>
+<rect x="580.0" y="316" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="614.0" y="337.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">CI/CD</text>
+</g>
+</svg>

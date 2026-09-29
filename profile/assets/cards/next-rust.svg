@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="302" viewBox="0 0 1300 302" role="img" aria-labelledby="t d">
+  <title id="t">Next Rust by I Plus T Solution</title>
+  <desc id="d">A Rust-native full-stack web framework with Next.js App Router semantics: filesystem routing, nested layouts, server rendering, streaming, static generation and server actions, all compiled into one binary.</desc>
+  <defs>
+  <filter id="sh" x="-15%" y="-15%" width="130%" height="160%">
+    <feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#000" flood-opacity="0.30"/>
+    <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#000" flood-opacity="0.22"/>
+  </filter>
+  <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#103322"/><stop offset="1" stop-color="#05150C"/>
+  </linearGradient>
+  <linearGradient id="faceA" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#134A2C"/><stop offset="1" stop-color="#061C10"/>
+  </linearGradient>
+  <linearGradient id="slab" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0B5A2E"/><stop offset="1" stop-color="#03200F"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#C9FFE0" stop-opacity="0.38"/>
+    <stop offset="0.3" stop-color="#C9FFE0" stop-opacity="0.07"/>
+    <stop offset="1" stop-color="#C9FFE0" stop-opacity="0.02"/>
+  </linearGradient>
+  <radialGradient id="sheen" cx="0.18" cy="0" r="0.95">
+    <stop offset="0" stop-color="#22E07D" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#22E07D" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="tile" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#22DB73"/><stop offset="1" stop-color="#00822F"/>
+  </linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.5"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="num" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F0FFF5"/><stop offset="1" stop-color="#22E07D"/>
+  </linearGradient>
+  <linearGradient id="logoFg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E6FFEE"/><stop offset="1" stop-color="#82E7B0"/>
+  </linearGradient>
+  </defs>
+  <style>
+    .s { font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .m { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+  </style>
+<g transform="translate(10 4)">
+<g filter="url(#sh)"><rect x="16" y="19" width="1248" height="240" rx="26" fill="url(#slab)"/><rect x="16" y="12" width="1248" height="240" rx="26" fill="url(#faceA)"/></g>
+<rect x="16" y="12" width="1248" height="240" rx="26" fill="url(#sheen)"/>
+<rect x="16.75" y="12.75" width="1246.5" height="238.5" rx="25.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<g transform="translate(48 44)"><rect y="6.4" width="80" height="80" rx="21.6" fill="#004F1C"/><rect width="80" height="80" rx="21.6" fill="url(#tile)"/><rect x="5.6" y="3.2" width="68.8" height="38.4" rx="17.3" fill="url(#gloss)" opacity="0.55"/><rect x=".75" y=".75" width="78.5" height="78.5" rx="20.9" fill="none" stroke="#9BF7C4" stroke-opacity="0.6" stroke-width="1.5"/><g transform="translate(19.20 19.20) scale(1.7333)" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(0 1)" color="#00561F" opacity="0.75"><circle cx="12" cy="12" r="3"/><path d="M12 2.5v2.6M12 18.9v2.6M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M2.5 12h2.6M18.9 12h2.6M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8"/><circle cx="12" cy="12" r="6.3"/></g><g color="#F2FFF7"><circle cx="12" cy="12" r="3"/><path d="M12 2.5v2.6M12 18.9v2.6M4.6 4.6l1.8 1.8M17.6 17.6l1.8 1.8M2.5 12h2.6M18.9 12h2.6M4.6 19.4l1.8-1.8M17.6 6.4l1.8-1.8"/><circle cx="12" cy="12" r="6.3"/></g></g></g>
+<text class="m" x="152" y="74" font-size="13" letter-spacing="1.8" fill="#4ADE80">OPEN SOURCE · RUST WEB FRAMEWORK</text>
+<text class="s" x="152" y="112" font-size="32" font-weight="800" fill="#F3FFF7">Next Rust</text>
+<circle cx="1214" cy="64" r="19" fill="#0BBF64" fill-opacity="0.16"/><g transform="translate(1205 55) scale(0.75)" fill="none" stroke="#9AF5C3" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></g>
+<text class="s" x="152" y="152" font-size="18" fill="#B5D6C3">A Rust-native full-stack web framework with Next.js App Router semantics: filesystem routing, nested</text>
+<text class="s" x="152" y="178" font-size="18" fill="#B5D6C3">layouts, server rendering, streaming, static generation and server actions, all compiled into one binary.</text>
+<rect x="152.0" y="196" width="59.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="181.8" y="217.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Rust</text>
+<rect x="221.6" y="196" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="255.6" y="217.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Tokio</text>
+<rect x="299.6" y="196" width="68.0" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="333.6" y="217.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Hyper</text>
+<rect x="377.6" y="196" width="51.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="403.2" y="217.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">SSR</text>
+<rect x="438.8" y="196" width="143.6" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="510.6" y="217.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Server actions</text>
+<rect x="592.4" y="196" width="135.2" height="32" rx="9" fill="#0BBF64" fill-opacity="0.16"/><text class="s" x="660.0" y="217.4" text-anchor="middle" font-size="15" font-weight="600" fill="#9AF5C3">Single binary</text>
+</g>
+</svg>

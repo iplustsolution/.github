@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="384" viewBox="0 0 1300 384" role="img" aria-labelledby="t d">
+  <title id="t">What clients say about I Plus T Solution</title>
+  <desc id="d">&quot;I have searched high and low for a good developer... Finally, I have found someone that not only I could recommend, but would rather not work with anyone else.&quot; (Fredy Jecklin, Ceo, Blue Stingers) &quot;I had a great experience working with this app developer. He delivered high-quality work, met all requirements, and communicated clearly.&quot; (Cindy Ayson Limpangog, Cto, Live Marketplace) &quot;Incredible attention to detail and technical prowess. The team&#x27;s communication and project management were exemplary.&quot; (Daniel Esteban Martinez, Founder, Mi Paz)</desc>
+  <defs>
+  <filter id="sh" x="-15%" y="-15%" width="130%" height="160%">
+    <feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#000" flood-opacity="0.30"/>
+    <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#000" flood-opacity="0.22"/>
+  </filter>
+  <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#103322"/><stop offset="1" stop-color="#05150C"/>
+  </linearGradient>
+  <linearGradient id="faceA" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#134A2C"/><stop offset="1" stop-color="#061C10"/>
+  </linearGradient>
+  <linearGradient id="slab" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0B5A2E"/><stop offset="1" stop-color="#03200F"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#C9FFE0" stop-opacity="0.38"/>
+    <stop offset="0.3" stop-color="#C9FFE0" stop-opacity="0.07"/>
+    <stop offset="1" stop-color="#C9FFE0" stop-opacity="0.02"/>
+  </linearGradient>
+  <radialGradient id="sheen" cx="0.18" cy="0" r="0.95">
+    <stop offset="0" stop-color="#22E07D" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#22E07D" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="tile" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#22DB73"/><stop offset="1" stop-color="#00822F"/>
+  </linearGradient>
+  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.5"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="num" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#F0FFF5"/><stop offset="1" stop-color="#22E07D"/>
+  </linearGradient>
+  <linearGradient id="logoFg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#E6FFEE"/><stop offset="1" stop-color="#82E7B0"/>
+  </linearGradient>
+  </defs>
+  <style>
+    .s { font-family: 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .m { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+  </style>
+<g transform="translate(10 4)">
+<g filter="url(#sh)"><rect x="20" y="19" width="397" height="318" rx="24" fill="url(#slab)"/><rect x="20" y="12" width="397" height="318" rx="24" fill="url(#face)"/></g>
+<rect x="20" y="12" width="397" height="318" rx="24" fill="url(#sheen)"/>
+<rect x="20.75" y="12.75" width="395.5" height="316.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="44" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700" fill="#0BBF64" fill-opacity="0.55">&#8220;</text>
+<text class="s" x="48" y="116" font-size="17.5" fill="#D6EEDF">I have searched high and low for a</text>
+<text class="s" x="48" y="142" font-size="17.5" fill="#D6EEDF">good developer... Finally, I have</text>
+<text class="s" x="48" y="168" font-size="17.5" fill="#D6EEDF">found someone that not only I could</text>
+<text class="s" x="48" y="194" font-size="17.5" fill="#D6EEDF">recommend, but would rather not work</text>
+<text class="s" x="48" y="220" font-size="17.5" fill="#D6EEDF">with anyone else.</text>
+<g transform="translate(48 254)"><circle cx="24.0" cy="27.0" r="24.0" fill="#004F1C"/><circle cx="24.0" cy="24.0" r="24.0" fill="url(#tile)"/><ellipse cx="24.0" cy="14.399999999999999" rx="17.28" ry="9.600000000000001" fill="url(#gloss)" opacity="0.5"/><text class="s" x="24.0" y="30.0" text-anchor="middle" font-size="18" font-weight="800" fill="#F2FFF7">FJ</text></g>
+<text class="s" x="110" y="282" font-size="17" font-weight="800" fill="#F3FFF7">Fredy Jecklin</text>
+<text class="m" x="110" y="304" font-size="11.5" letter-spacing="1.4" fill="#6FA487">CEO, BLUE STINGERS</text>
+<g filter="url(#sh)"><rect x="441" y="19" width="397" height="318" rx="24" fill="url(#slab)"/><rect x="441" y="12" width="397" height="318" rx="24" fill="url(#face)"/></g>
+<rect x="441" y="12" width="397" height="318" rx="24" fill="url(#sheen)"/>
+<rect x="441.75" y="12.75" width="395.5" height="316.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="465" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700" fill="#0BBF64" fill-opacity="0.55">&#8220;</text>
+<text class="s" x="469" y="116" font-size="17.5" fill="#D6EEDF">I had a great experience working with</text>
+<text class="s" x="469" y="142" font-size="17.5" fill="#D6EEDF">this app developer. He delivered high-</text>
+<text class="s" x="469" y="168" font-size="17.5" fill="#D6EEDF">quality work, met all requirements,</text>
+<text class="s" x="469" y="194" font-size="17.5" fill="#D6EEDF">and communicated clearly.</text>
+<g transform="translate(469 254)"><circle cx="24.0" cy="27.0" r="24.0" fill="#004F1C"/><circle cx="24.0" cy="24.0" r="24.0" fill="url(#tile)"/><ellipse cx="24.0" cy="14.399999999999999" rx="17.28" ry="9.600000000000001" fill="url(#gloss)" opacity="0.5"/><text class="s" x="24.0" y="30.0" text-anchor="middle" font-size="18" font-weight="800" fill="#F2FFF7">CL</text></g>
+<text class="s" x="531" y="282" font-size="17" font-weight="800" fill="#F3FFF7">Cindy Ayson Limpangog</text>
+<text class="m" x="531" y="304" font-size="11.5" letter-spacing="1.4" fill="#6FA487">CTO, LIVE MARKETPLACE</text>
+<g filter="url(#sh)"><rect x="862" y="19" width="397" height="318" rx="24" fill="url(#slab)"/><rect x="862" y="12" width="397" height="318" rx="24" fill="url(#face)"/></g>
+<rect x="862" y="12" width="397" height="318" rx="24" fill="url(#sheen)"/>
+<rect x="862.75" y="12.75" width="395.5" height="316.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="886" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700" fill="#0BBF64" fill-opacity="0.55">&#8220;</text>
+<text class="s" x="890" y="116" font-size="17.5" fill="#D6EEDF">Incredible attention to detail and</text>
+<text class="s" x="890" y="142" font-size="17.5" fill="#D6EEDF">technical prowess. The team&#x27;s</text>
+<text class="s" x="890" y="168" font-size="17.5" fill="#D6EEDF">communication and project management</text>
+<text class="s" x="890" y="194" font-size="17.5" fill="#D6EEDF">were exemplary.</text>
+<g transform="translate(890 254)"><circle cx="24.0" cy="27.0" r="24.0" fill="#004F1C"/><circle cx="24.0" cy="24.0" r="24.0" fill="url(#tile)"/><ellipse cx="24.0" cy="14.399999999999999" rx="17.28" ry="9.600000000000001" fill="url(#gloss)" opacity="0.5"/><text class="s" x="24.0" y="30.0" text-anchor="middle" font-size="18" font-weight="800" fill="#F2FFF7">DM</text></g>
+<text class="s" x="952" y="282" font-size="17" font-weight="800" fill="#F3FFF7">Daniel Esteban Martinez</text>
+<text class="m" x="952" y="304" font-size="11.5" letter-spacing="1.4" fill="#6FA487">FOUNDER, MI PAZ</text>
+</g>
+</svg>

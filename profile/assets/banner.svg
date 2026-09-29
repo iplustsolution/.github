@@ -1,6 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
-  <title id="title">I Plus T Solution — AI agents and high-performance Rust backends</title>
-  <desc id="desc">Hero banner for I Plus T Solution, an AI-native software development company in Gurugram, India, building AI agents, LLM and RAG applications, Rust backends, React Native apps and cloud-native SaaS.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="476" viewBox="0 0 1300 476" role="img" aria-labelledby="bt bd">
+  <title id="bt">I Plus T Solution: AI agents and high-performance Rust backends</title>
+  <desc id="bd">Hero banner for I Plus T Solution, an AI-native software development company in Gurugram, India, building AI agents, LLM and RAG applications, Rust backends, React Native apps and cloud-native SaaS.</desc>
+  <defs>
+    <filter id="bsh" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="11" flood-color="#000" flood-opacity="0.32"/>
+      <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#000" flood-opacity="0.22"/>
+    </filter>
+    <linearGradient id="bslab" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B5A2E"/><stop offset="1" stop-color="#03200F"/>
+    </linearGradient>
+    <linearGradient id="bedge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9FFE0" stop-opacity="0.4"/>
+      <stop offset="0.3" stop-color="#C9FFE0" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#C9FFE0" stop-opacity="0.03"/>
+    </linearGradient>
+    <clipPath id="bclip"><rect x="26" y="16" width="1248" height="409.5" rx="28"/></clipPath>
+  </defs>
+  <g filter="url(#bsh)">
+    <rect x="26" y="24" width="1248" height="409.5" rx="28" fill="url(#bslab)"/>
+    <rect x="26" y="16" width="1248" height="409.5" rx="28" fill="#03100A"/>
+  </g>
+  <g clip-path="url(#bclip)">
+  <svg x="26" y="16" width="1248" height="409.5" viewBox="0 0 1280 420">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#03100A"/>
@@ -64,6 +85,11 @@
         <rect x="29.5" y="9.2" width="7.4" height="33" rx="2"/>
       </g>
     </g>
+    <linearGradient id="gearHi" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E9FFF1" stop-opacity="0.75"/>
+      <stop offset="0.45" stop-color="#E9FFF1" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.35"/>
+    </linearGradient>
   </defs>
 
   <style>
@@ -157,6 +183,8 @@
     </g>
   </g>
 
+  <circle cx="1030" cy="210" r="111" fill="none" stroke="url(#gearHi)" stroke-width="2.5"/>
+  <circle cx="1030" cy="210" r="89.5" fill="none" stroke="#000" stroke-opacity="0.45" stroke-width="3"/>
   <!-- AI chip in the gear -->
   <g transform="translate(1030 210)">
     <g stroke="url(#ai)" stroke-width="3" stroke-linecap="round">
@@ -167,6 +195,7 @@
     </g>
     <rect x="-46" y="-46" width="92" height="92" rx="16" fill="#07190F" stroke="url(#ai)" stroke-width="2.5"/>
     <rect x="-36" y="-36" width="72" height="72" rx="10" fill="none" stroke="#12301F"/>
+    <rect x="-42" y="-42" width="84" height="38" rx="12" fill="#E9FFF1" fill-opacity="0.07"/>
     <text class="sans" y="13" text-anchor="middle" font-size="36" font-weight="800" fill="url(#ai)">AI</text>
   </g>
 
@@ -181,7 +210,7 @@
     <text x="70" y="168" font-size="64" font-weight="800" letter-spacing="-1.5" fill="url(#titleGrad)">I Plus T Solution</text>
 
     <g font-size="23" fill="#CFE8D9">
-      <text x="72" y="214">We engineer <tspan fill="#99F6E4" font-weight="700">AI agents</tspan> and <tspan fill="#86EFAC" font-weight="700">blazing-fast Rust backends</tspan> —</text>
+      <text x="72" y="214">We engineer <tspan fill="#99F6E4" font-weight="700">AI agents</tspan> and <tspan fill="#86EFAC" font-weight="700">high-performance Rust backends</tspan> —</text>
       <text x="72" y="246">web, mobile and SaaS built for speed, security and scale.</text>
     </g>
 
@@ -212,4 +241,7 @@
   </g>
 
   <rect y="416" width="1280" height="4" fill="url(#line)"/>
+</svg>
+  </g>
+  <rect x="26.75" y="16.75" width="1246.5" height="408.0" rx="27.25" fill="none" stroke="url(#bedge)" stroke-width="1.5"/>
 </svg>
